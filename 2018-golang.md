@@ -1,6 +1,6 @@
 # Year 2018: Go Lang
 
-I've played with Python plenty, but this year all my spare time will be spent using Python.
+I've played with Go Lang some, so this year all my spare time will be spent using Go.
 
 ## Trends
  - Stackoverflow
